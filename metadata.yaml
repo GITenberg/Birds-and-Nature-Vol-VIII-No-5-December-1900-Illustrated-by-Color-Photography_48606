@@ -20,6 +20,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Birds and Nature, Vol. VIII, No. 5, December 1900
 
   Illustrated by Color Photography'
